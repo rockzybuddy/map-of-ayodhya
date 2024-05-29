@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "Code": "Janam Bhumi",
+        "Name": "Location: Shree Ram Janmabhoomi Mandir",
+        "Description": "Description: The Ram Janmabhoomi is believed to have been the birthplace of the Hindu deity, Lord Ram. According to the Indian epic Ramayan, Ram, Lord Vishnu's seventh manifestation, is said to have grown up along Ayodhya's river Sarayu. Located in the ancient city of Ayodhya, he Ram Janmabhoomi is a highly revered site for Hindu devotees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.19440082879849,
+          26.79576016145209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Code": "Hanuman Garhi",
+        "Name": "Location: Shri Hanuman Garhi Mandir",
+        "Description": "Description: Hanuman Garhi is a 10th-century temple dedicated to the Hindu God, Hanuman. It is one of the most important temples in Ayodhya as it is customary to visit Hanuman Garhi before visiting the Ram Temple in Ayodhya. It is believed that Lord Hanuman lived at the temple site guarding Ayodhya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.20178121736627,
+          26.795406354477034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "Code": "Nageshwar Mandir",
+        "Name": "Location: Shri Nageshwar Nath Mandir",
+        "Description": "Description: Established in the name of the local deity, Lord Nageshwarnath, the Nageshwarnath Temple is located adjacent to the Theri Bazaar in Ayodhya. It is believed to have been set up by Kush or Kusha, Lord Rama's son. Although this sacred site continued to be in good maintenance since 750 AD, the current temple is said to have been reconstructed in 1750 by Safar Jung's minister, Naval Rai. Legend has it that Kush came across a Shiva devotee called Naga Kanya when he happened to lose his arm ring in the local bath."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.20324336947785,
+          26.808099316144325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "Code": "Kanak Bhawan",
+        "Name": "Location: Kanak Bhawan",
+        "Description": "Description: The Kanak Bhawan is established towards the northeastern corner of the Ram Janmabhoomi in Tulsi Nagar. Constructed in 1891, this temple is also known as Sone-ka-Ghar. It is a holy site dedicated to the Hindu deity Lord Rama and his wife, Goddess Sita. Kanak Bhawan, also meaning Golden Palace, cites three golden-crowned idols of the two gods under a silver roof in the sanctum santorum (Garbagriha). It is believed that this shrine was gifted to Rama and Sita by the former's stepmother, Kaikeyi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1991840333147,
+          26.798074835096653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "Code": "Ram Bharat Milap Mandir",
+        "Name": "Location: Ram Bharat Milap Mandir",
+        "Description": "Description: It is believed that the temple represents the place where Lord Shri Ram reunited with his brothers during the exile period mentioned in the Ramayana. It is also said that Lord Shri Ram's brother Bharat stayed here for some time with the army and the royal family."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.20096368680306,
+          26.796254490599384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "Code": "Dashrath Mahal",
+        "Name": "Location: Dashrath Mahal",
+        "Description": "Description: This historical site, believed to be the palace of King Dashrath, father of Lord Rama, is steeped in mythological significance. It represents the royal lineage and valorous narratives of the Ramayana, offering a glimpse into the epic's grandeur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.19988185771284,
+          26.796701247107304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "Code": "Shri Jagannath Mandir",
+        "Name": "Location: Shri Jagannath Mandir",
+        "Description": "Description: "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.19648398054451,
+          26.795489844603754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "Code": "Shri Rang Mahal",
+        "Name": "Location: Shri Rang Mahal",
+        "Description": "Description: "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.19634583527117,
+          26.795911022212703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "Code": "Chhoti Devkali Mandir",
+        "Name": "Location: Chhoti Devkali Mandir",
+        "Description": "Description: The Chotti Devakali Mandir is said to have been built by King Dashrath for Sita Devi's worship of Goddess Devkali. The Ram Charit Manas, a historic poem written by Tulsidas, is regularly recited here in the evenings. Festivals like Ram Navmi, Ram Vivah and Janaki Navami are celebrated by the locals and the pilgrims. On important days such as Ashada Navrada and Ashwin Navratotsav (around June - July), a grand Aarti of 1051 lights is organized where several tourists, pilgrims and locals come to worship and pray to the Goddess."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.20535209956053,
+          26.801459134547926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "Code": "Shri Kale Ram Temple",
+        "Name": "Location: Shri Kale Ram Temple",
+        "Description": "Description: Shri Kale Ram Temple is said to be the most important temple in Ayodhya. The temple is widely known in and outside of India as it is the only temple that depicts the idol of Lord Rama along with his brothers Bharata, Lakshmana and Shatrughna. This temple also has idols of Lord Hanuman and Goddess Sita. Visitors can also choose to stay at the guesthouse in the temple premises."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.20558721660746,
+          26.80855539032482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "Code": " Raj Dwar Mandir",
+        "Name": "Location: Raj Dwar Mandir",
+        "Description": "Description: The Raj Dwar Hanuman Garhi Temple is situated in Tulsi Nagar, Ayodhya, Uttar Pradesh. The Shikara of this magnificent temple originally was made of pure gold, however, after independence, the Gold was replaced by the government. Although the temple is not as famous as the others situated in the city, there is an annual fair organised by the Temple authorities that sees crowds of over thousands coming to visit the religious place. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.20181683342948,
+          26.79617678728443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "Code": " Shree Swaminarayan Mandir",
+        "Name": "Location: Shree Swaminarayan Mandir",
+        "Description": "Description: Located at the Patrapur Road in Ayodhya, the famous Swaminarayan temple was originally home to Shri Swaminarayan who shifted to Ayodhya from Chhapaiya. The magnificent temple has beautifully carved idols of Radha Krishna Deva and Harikrishna Maharaj. The temple also has two umbrellas commemorating the houses that were removed to make inns. The famous yogi Ghanshyam Maharaj, also known as Shri Swaminarayan, performed various holy rituals in the temple. Even today, many saints and priests perform these rites with the aim to gain infinite power."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.20409147487224,
+          26.789099756291513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "Code": " Ammaji Mandir",
+        "Name": "Location: Ammaji Mandir",
+        "Description": "Description: The famous and elegant Ammaji Mandir is one of the 108 Divya Desams of Lord Vishnu. Maintained mainly by Tamils, the temple is famous for hosting the Hevilambi Varusha Pavithrotsavam. This temple along the banks of river Sarayu is over 100 years old. Founded by Sri Yogi Parthasarathy Iyengar, the temple contains scriptures in Hindi, Sanskrit as well as Tamil. After the passing of Sri Yogi, his wife took responsibility for the upkeep of the temple. Owing to her selfless devotion to maintaining the temple and the people, the temple popularly came to be known as Ammaji Temple. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.19955989842563,
+          26.805142177019924
+        ]
+      }
+    }
+  ]
+}
